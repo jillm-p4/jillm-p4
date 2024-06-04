@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jillm-p4
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently working at pillar4 as a data science intern and will be collaborating with the data science team on various projects this summer.
+ I’m interested in data science and machine learning
+ I’m currently working at pillar4 as a data science intern and will be collaborating with the data science team on various projects this summer.
 
 - 📫 How to reach me: jillian.myler@pillarfour.com
 - 😄 Pronouns: she/her
